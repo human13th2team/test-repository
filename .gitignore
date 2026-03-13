@@ -7,3 +7,5 @@
 /backend/out
 *.log
 .DS_Store
+.vscode
+
